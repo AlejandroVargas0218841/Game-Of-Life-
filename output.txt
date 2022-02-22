@@ -1,0 +1,250 @@
+Simulation at:   2022-02-22
+Universe Size:   100x200
+
+Iteration: 1
+--------------------------
+|      | Count | Percent |
+Gliders:   4 150.0
+Simulation at:   2022-02-22
+Universe Size:   100x200
+
+Iteration: 1
+--------------------------
+|      | Count | Percent |
+Gliders:   5 140.0
+Simulation at:   2022-02-22
+Universe Size:   100x200
+
+Iteration: 1
+--------------------------
+|      | Count | Percent |
+Gliders:   4 80.0
+Simulation at:   2022-02-22
+Universe Size:   100x200
+
+Iteration:   200
+--------------------------
+|      | Count | Percent |
+Gliders:   4 66.66666666666667
+Simulation at:   2022-02-22
+Universe Size:   100x200
+
+Iteration:   200
+--------------------------
+|      | Count | Percent |
+Gliders:   5 71.42857142857143
+Total:   7
+Simulation at:   2022-02-22
+Universe Size:   150x160
+
+Iteration:   200
+--------------------------
+|      | Count | Percent |
+Gliders:   5 83.33333333333333
+Total:   6
+Simulation at:   2022-02-22
+Universe Size:   150x160
+
+Iteration:   200
+--------------------------
+|      | Count | Percent |
+Gliders:   5 83.33333333333333
+Gliders:   1 16.666666666666668
+Gliders:   0 0.0
+Total:   6
+Simulation at:   2022-02-22
+Universe Size:   150x160
+
+Iteration:   200
+--------------------------
+|      | Count | Percent |
+Gliders:   7 77.77777777777777
+Blocks:   2 22.22222222222222
+Loafs:   0 0.0
+Total:   9
+
+
+Simulation at:   2022-02-22
+Universe Size:   150x160
+
+Iteration:   200
+--------------------------
+|      | Count | Percent |
+Gliders:   5 83.33333333333333
+Blocks:   1 16.666666666666668
+Loafs:   0 0.0
+Total:   6
+
+
+Simulation at:   2022-02-22
+Universe Size:   150x160
+
+Iteration:   200
+--------------------------
+|      | Count | Percent |
+Gliders:   	5	100.0
+Blocks:   0 0.0
+Loafs:   0 0.0
+Total:   5
+
+
+Simulation at:   2022-02-22
+Universe Size:   150x160
+
+Iteration:   200
+--------------------------
+|      | Count | Percent |
+Gliders:   	4	100.0
+Blocks:   0 0.0
+Loafs:   0 0.0
+Tubs:   0 0.0
+Blinkers:   0 0.0
+Toads:   0 0.0
+Beacons:   0 0.0
+Light-weight spaceship:   0 0.0
+Total:   4
+
+
+Simulation at:   2022-02-22
+Universe Size:   150x160
+
+Iteration:   200
+--------------------------
+|      | Count | Percent |
+Gliders:   	6	85.71428571428571
+Blocks:   	1	14.285714285714286
+Loafs:   	0	0.0
+Tubs:   	0	0.0
+Blinkers:   	0	0.0
+Toads:   	0	0.0
+Beacons:   	0	0.0
+Light-weight spaceship:   	0	0.0
+Total:   7
+
+
+Simulation at:   2022-02-22
+Universe Size:   150x160
+
+Iteration:   200
+--------------------------
+|      | Count | Percent |
+Gliders:   	7	77.77777777777777
+Blocks:   	2	22.22222222222222
+Loafs:   	0	0.0
+Tubs:   	0	0.0
+Blinkers:   	0	0.0
+Toads:   	0	0.0
+Beacons:   	0	0.0
+Light-weight spaceship:   	0	0.0
+Total:   9
+
+
+--------------------------
+Simulation at:   2022-02-22
+Universe Size:   150x160
+
+Iteration:   200
+--------------------------
+|      | Count | Percent |
+Gliders:   	4	80.0
+Blocks:   	1	20.0
+Loafs:   	0	0.0
+Tubs:   	0	0.0
+Blinkers:   	0	0.0
+Toads:   	0	0.0
+Beacons:   	0	0.0
+LW Spaceships:   	0	0.0
+Total:   5
+
+
+--------------------------
+Simulation at:   2022-02-22
+Universe Size:   150x160
+
+Iteration:   200
+--------------------------
+|      | Count | Percent |
+Gliders:   	7	77.77777777777777
+Blocks:   	2	22.22222222222222
+Loafs:   	0	0.0
+Tubs:   	0	0.0
+Blinkers:   	0	0.0
+Toads:   	0	0.0
+Beacons:   	0	0.0
+Spaceships:   	0	0.0
+Total:   9
+
+
+--------------------------
+Simulation at:   2022-02-22
+Universe Size:   200x160
+
+Iteration:   200
+--------------------------
+|      | Count | Percent |
+Gliders:   	10	100.0
+Blocks:   	0	0.0
+Loafs:   	0	0.0
+Tubs:   	0	0.0
+Blinkers:   	0	0.0
+Toads:   	0	0.0
+Beacons:   	0	0.0
+Spaceships:   	0	0.0
+Total:   10
+
+
+--------------------------
+Simulation at:   2022-02-22
+Universe Size:   200x160
+
+Iteration:   200
+--------------------------
+|      | Count | Percent |
+Gliders:   	11	100.0
+Blocks:   	0	0.0
+Loafs:   	0	0.0
+Tubs:   	0	0.0
+Blinkers:   	0	0.0
+Toads:   	0	0.0
+Beacons:   	0	0.0
+Spaceships:   	0	0.0
+Total:   11
+
+
+--------------------------
+Simulation at:   2022-02-22
+Universe Size:   200x160
+
+Iteration:   200
+--------------------------
+|       |  Count  |  Percent  |
+Gliders:   	11	100.0
+Blocks:   	0	0.0
+Loafs:   	0	0.0
+Tubs:   	0	0.0
+Blinkers:   	0	0.0
+Toads:   	0	0.0
+Beacons:   	0	0.0
+Spaceships:   	0	0.0
+Total:   11
+
+
+--------------------------
+Simulation at:   2022-02-22
+Universe Size:   200x160
+
+Iteration:   200
+--------------------------
+|       	|  Count  |  Percent  |
+Gliders:   	9	100.0
+Blocks:   	0	0.0
+Loafs:   	0	0.0
+Tubs:   	0	0.0
+Blinkers:   	0	0.0
+Toads:   	0	0.0
+Beacons:   	0	0.0
+Spaceships:   	0	0.0
+Total:   9
+
+
+--------------------------

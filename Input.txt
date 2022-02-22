@@ -1,0 +1,14 @@
+200 160		#Width Height
+200 		#Generations
+20 25		#Celula Viva
+20 24		#Celula Viva
+50 50		#Celula Viva
+65 18		#Celula Viva
+21 26		#Celula Viva
+54 3		#Celula Viva
+62 39		#Celula Viva
+140 65		#Celula Viva
+125 74		#Celula Viva
+127 76		#Celula Viva
+190 69		#Celula Viva
+105 150		#Celula Viva
